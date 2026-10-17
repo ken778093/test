@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="..\css\style.css"></link>
+<link rel="stylesheet" href="..\css\vid.css"></link>
 var video = document.getElementById("myVideo");
 
 
